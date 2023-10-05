@@ -1,0 +1,15 @@
+Done - Saving Announcements
+
+Done - Displaying Dynamic Announcements
+
+Done - place the Announcements code in coursecontent.jsp file and embed it in all other jsp files
+
+Done - Add a code so that by clicking on a announcement it should add that course to the Cart
+
+Done - Update all the new banners and add announcements and link accordingly
+
+Done - Dynamic Ratings
+
+Done - Course Starting should be captured at the time of purchase
+
+Work on Course Description
